@@ -3,6 +3,8 @@
 ![ineuro, lco](https://img.shields.io/badge/iNeuron-LCO-green)
 ![hitesh choudhary](https://img.shields.io/badge/Hitesh--Choudhary-Full--stack--JS--bootcamp-red)
 
+[Live Link](https://peppy-gecko-001556.netlify.app/)
+
 - Skills Gained
 
   - Learned a lot about relative & absolute positioning
